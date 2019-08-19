@@ -1,0 +1,154 @@
+﻿  app.cpp
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(54): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(57): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(182): warning C4305: 'argument': truncation from 'double' to 'float32'
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(185): warning C4305: 'argument': truncation from 'double' to 'float32'
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(216): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(217): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(351): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(352): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(540): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(541): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(629): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(630): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(718): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\app.cpp(719): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  game.cpp
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\game.cpp(42): warning C4244: 'argument': conversion from '_Ty' to 'float32', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\game.cpp(46): warning C4305: 'argument': truncation from 'double' to 'float32'
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\game.cpp(54): warning C4305: 'argument': truncation from 'double' to 'float32'
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\game.cpp(118): warning C4244: 'argument': conversion from 'unsigned int' to 'float32', possible loss of data
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\game.cpp(119): warning C4244: 'argument': conversion from 'unsigned int' to 'float32', possible loss of data
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\game.cpp(120): warning C4244: 'argument': conversion from 'unsigned int' to 'float32', possible loss of data
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\game.cpp(121): warning C4244: 'argument': conversion from 'unsigned int' to 'float32', possible loss of data
+  Menu.cpp
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\menu.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\menu.cpp(46): warning C4018: '<': signed/unsigned mismatch
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\menu.cpp(69): warning C4018: '<': signed/unsigned mismatch
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\menu.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\menu.cpp(108): warning C4018: '<': signed/unsigned mismatch
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\menu.cpp(114): warning C4018: '<': signed/unsigned mismatch
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\menu.cpp(149): warning C4018: '<': signed/unsigned mismatch
+  plane.cpp
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\plane.cpp(54): warning C4305: 'argument': truncation from 'double' to 'float32'
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\plane.cpp(58): warning C4305: '=': truncation from 'double' to 'float32'
+  Generating Code...
+d:\ms_electrical_engineering\object oriented programming c++\project\air_combat\menu.cpp(123): warning C4715: 'Menu::MouseEvent': not all control paths return a value
+Box2D.lib(b2ChainShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ChainShape.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2EdgeShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2EdgeShape.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PolygonShape.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PolygonShape.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2BroadPhase.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2BroadPhase.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CollideCircle.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CollideCircle.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CollideEdge.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CollideEdge.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CollidePolygon.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CollidePolygon.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Collision.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Collision.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Distance.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Distance.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2DynamicTree.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2DynamicTree.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2TimeOfImpact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2TimeOfImpact.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2BlockAllocator.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2BlockAllocator.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Draw.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Draw.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Math.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Math.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Settings.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Settings.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2StackAllocator.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2StackAllocator.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Timer.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Timer.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ChainAndCircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ChainAndCircleContact.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ChainAndPolygonContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ChainAndPolygonContact.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2CircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2CircleContact.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Contact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Contact.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ContactSolver.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ContactSolver.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2EdgeAndCircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2EdgeAndCircleContact.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2EdgeAndPolygonContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2EdgeAndPolygonContact.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PolygonAndCircleContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PolygonAndCircleContact.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PolygonContact.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PolygonContact.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2DistanceJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2DistanceJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2FrictionJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2FrictionJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2GearJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2GearJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Joint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Joint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2MotorJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2MotorJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2MouseJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2MouseJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PrismaticJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PrismaticJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2PulleyJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2PulleyJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2RevoluteJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2RevoluteJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2RopeJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2RopeJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2WeldJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2WeldJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2WheelJoint.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2WheelJoint.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Body.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Body.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2ContactManager.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2ContactManager.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Fixture.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Fixture.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2Island.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2Island.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2World.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2World.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+Box2D.lib(b2WorldCallbacks.obj) : warning LNK4099: PDB 'Box2D.pdb' was not found with 'Box2D.lib(b2WorldCallbacks.obj)' or at 'D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\Box2D.pdb'; linking object as if no debug info
+  air_combat.vcxproj -> D:\MS_Electrical_Engineering\Object Oriented Programming C++\Project\air_combat\Debug\air_combat.exe
